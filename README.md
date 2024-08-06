@@ -20,4 +20,4 @@ At every step LLM decides as an agent which way to go based on the current state
 * Further Ideas:
 
 - Arbitrary complex world with different environments and different possible actions from an agent. 
-- Explore one way to move - apply a force vector with a direction $alpha and magnitude $F based on current position, velocity and acceleration of the agent, as well as state of the world. 
+- Explore one way to move - apply a force vector with a direction $alpha$ and magnitude $F$ based on current position, velocity and acceleration of the agent, as well as state of the world. 
